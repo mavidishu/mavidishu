@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Java.<br>I'm pursuing B.tech CSE.<br>I'm studying in Amity University, Greater Noida.<br>I'm skilled in Java, HTML, CSS, Java Script & BootStrap.
+<br>I'm pursuing B.tech CSE from Amity University.<br>I'm skilled in Java, React.js, HTML, CSS, Java Script & BootStrap <br>Contact me at dishumavi1@gmail.com .
 
 
 ## 🌐 Socials:
