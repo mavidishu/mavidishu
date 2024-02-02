@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm pursuing B.tech CSE from Amity University.<br>I'm skilled in Java, React.js, HTML, CSS, Java Script & BootStrap <br>Contact me at dishumavi1@gmail.com .
+<br>I'm pursuing B.tech CSE from Amity University.<br>I'm skilled in Java, React.js, HTML, CSS, Java Script & BootStrap <br>Contact : dishumavi1@gmail.com .
 
 
 ## 🌐 Socials:
